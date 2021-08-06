@@ -7,7 +7,14 @@ const Header = () => {
 
   return (
     <div className="header">
-      <div className="logo">Rajorshi</div>
+      {/* <div className="logo">Rajorshi</div> */}
+      <div className="logo">
+        <img
+          src={require("../images/topLogo.png").default}
+          alt="My Logo"
+          className="TopLogo"
+        />
+      </div>
       <div className="menu">
         <div className="web-menu">
           <Web />

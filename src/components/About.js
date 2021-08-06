@@ -7,7 +7,8 @@ const About = () => {
         <div className="about-info">
           Hello there ^_^, I am
           <br /> <span className="info-name">Rajorshi Ghosh.</span>
-          <br />I adore computers and cars.
+          <br />
+          Currently doing undergrad in CSE.
         </div>
         <div className="about-photo">
           <img

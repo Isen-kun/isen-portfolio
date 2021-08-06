@@ -1,7 +1,7 @@
 import About from "./About";
 import Projects from "./Projects";
 import Skills from "./Skills";
-import Work from "./Work";
+// import Work from "./Work";
 import Contact from "./Contact";
 
 const Body = () => {
@@ -16,9 +16,9 @@ const Body = () => {
       <section id="skills">
         <Skills />
       </section>
-      <section id="work">
+      {/* <section id="work">
         <Work />
-      </section>
+      </section> */}
       <section id="contact">
         <Contact />
       </section>

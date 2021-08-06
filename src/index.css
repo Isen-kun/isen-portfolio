@@ -519,3 +519,8 @@ html {
   align-items: center;
   margin-top: 24px;
 }
+
+.TopLogo {
+  width: 45%;
+  border-radius: 5px;
+}
