@@ -12,7 +12,10 @@ const Contact = () => {
           <SocialContact />
         </div>
         <div className="download">
-          <a download href={require("../images/resume.pdf").default}>
+          <a
+            download="Rajorshi Ghosh's Resume.pdf"
+            href={require("../images/resume.pdf").default}
+          >
             <i className="fi-rr-cloud-download download-icon"></i>
             Download Resume
           </a>

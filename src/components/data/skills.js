@@ -18,6 +18,10 @@ export const SkillsData = [
         name: "MaterialUI",
         icon: <i className="devicon-materialui-plain colored"></i>,
       },
+      {
+        name: "Flutter",
+        icon: <i className="devicon-flutter-plain colored"></i>,
+      },
     ],
   },
   {
@@ -39,6 +43,14 @@ export const SkillsData = [
       {
         name: "Cpp",
         icon: <i className="devicon-cplusplus-plain colored"></i>,
+      },
+      {
+        name: "Java",
+        icon: <i className="devicon-java-plain colored"></i>,
+      },
+      {
+        name: "Python",
+        icon: <i className="devicon-python-plain colored"></i>,
       },
     ],
   },
